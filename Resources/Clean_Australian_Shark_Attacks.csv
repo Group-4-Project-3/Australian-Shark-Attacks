@@ -1153,7 +1153,7 @@
 1151,2020,uninjured,NSW,-28.33362,153.569698,white shark,Carcharodon carcharias ,provoked,coastal,9
 1152,2020,uninjured,NSW,-32.7876 ,152.08002,whaler shark,Carcharhinidae,unprovoked,coastal,9
 1153,2020,injured,NSW,-32.7876 ,153.08002,wobbegong,Orectolobidae,unprovoked,coastal,9
-1154,2020,injured,NSW,-33.950,151.267,white shark,Carcharodon carcharias ,unprovoked,coastal,10
+1154,2020,injured,NSW,-33.95,151.267,white shark,Carcharodon carcharias ,unprovoked,coastal,10
 1155,2020,uninjured,NSW,-33.790172,151.288598,whaler shark,Carcharhinidae,unprovoked,coastal,10
 1156,2020,injured,QLD,-18.25,146.666944,bull shark,Carcharhinus leucas,provoked,island open ocean,10
 1157,2020,fatal,WA,-34.8611,121.8919,white shark,Carcharodon carcharias ,unprovoked,coastal,10
@@ -1163,7 +1163,7 @@
 1161,2020,injured,WA,-17.9319,122.2081,bull shark,Carcharhinus leucas,unprovoked,coastal,12
 1162,2020,injured,SA,-35.9295,137.5966,white shark,Carcharodon carcharias ,unprovoked,island open ocean,12
 1163,2021,injured,NSW,-33.0833,151.5833,bull shark,Carcharhinus leucas,unprovoked,river,1
-1164,2021,injured,WA,-33.8640,114.9864,wobbegong,Orectolobidae,unprovoked,coastal,1
+1164,2021,injured,WA,-33.864,114.9864,wobbegong,Orectolobidae,unprovoked,coastal,1
 1165,2021,injured,WA,-32.0117,115.7866,bull shark,Carcharhinus leucas,unprovoked,river,1
 1166,2021,fatal,SA,-38.0522,140.7018,white shark,Carcharodon carcharias ,unprovoked,coastal,1
 1167,2021,injured,WA,-31.034,115.3356,wobbegong,Orectolobidae,unprovoked,coastal,2
@@ -1180,18 +1180,18 @@
 1178,2021,injured,NSW,-31.1295,153.0011,white shark,Carcharodon carcharias ,unprovoked,coastal,7
 1179,2021,injured,WA,-20.6517,115.5785,lemon shark,Negaprion brevirostris,provoked,island open ocean,7
 1180,2021,fatal,NSW,-30.1575,153.1502,white shark,Carcharodon carcharias ,unprovoked,coastal,9
-1181,2021,injured,NSW,-30.2860,153.1364,wobbegong,Orectolobidae,unprovoked,coastal,9
+1181,2021,injured,NSW,-30.286,153.1364,wobbegong,Orectolobidae,unprovoked,coastal,9
 1182,2021,injured,QLD,-20.2665,148.8819,unknown,unknown,unprovoked,island open ocean,10
-1183,2021,injured,NSW,-30.2042,153.1490,wobbegong,Orectolobidae,unprovoked,coastal,10
+1183,2021,injured,NSW,-30.2042,153.149,wobbegong,Orectolobidae,unprovoked,coastal,10
 1184,2021,fatal,WA,-32.0569,115.7439,white shark,Carcharodon carcharias ,unprovoked,coastal,11
 1185,2021,injured,VIC,-38.2676,144.5067,unknown,unknown,unprovoked,coastal,12
 1186,2021,injured,VIC,-38.2676,144.5067,unknown,unknown,unprovoked,coastal,12
 1187,2021,injured,QLD,-16.9062,145.8662,bull shark,Carcharhinus leucas,provoked,island open ocean,12
 1188,2022,injured,NSW,-35.1011,150.6892,whaler shark,Carcharhinidae,unprovoked,coastal,1
-1189,2022,injured,NSW,-35.6288,150.3230,wobbegong,Orectolobidae,unprovoked,coastal,1
-1190,2022,injured,NSW,-33.7000,151.2999,wobbegong,Orectolobidae,unprovoked,coastal,1
-1191,2022,injured,WA,-35.0031,117.8660,wobbegong,Orectolobidae,unprovoked,coastal,1
-1192,2022,fatal,NSW,-30.8830,153.0830,white shark,Carcharodon carcharias ,unprovoked,coastal,2
+1189,2022,injured,NSW,-35.6288,150.323,wobbegong,Orectolobidae,unprovoked,coastal,1
+1190,2022,injured,NSW,-33.7,151.2999,wobbegong,Orectolobidae,unprovoked,coastal,1
+1191,2022,injured,WA,-35.0031,117.866,wobbegong,Orectolobidae,unprovoked,coastal,1
+1192,2022,fatal,NSW,-30.883,153.083,white shark,Carcharodon carcharias ,unprovoked,coastal,2
 1193,2022,injured,QLD,-27.2333,153.2667,tiger shark,Galeocerdo cuvier ,unprovoked,ocean/pelagic,2
 1194,2022,injured,WA,-33.84848 ,121.9184,white shark,Carcharodon carcharias ,unprovoked,coastal,2
 1195,2022,injured,NSW,-33.8006,151.2982,wobbegong,Orectolobidae,unprovoked,coastal,2
@@ -1208,7 +1208,7 @@
 1206,2022,injured,WA,-20.3124,118.6094,bull shark,Carcharhinus leucas,provoked,ocean/pelagic,10
 1207,2022,injured,NSW,-35.8139,150.2258,wobbegong,Orectolobidae,unprovoked,coastal,10
 1208,2022,uninjured,SA,-35.0316,152.9774722,white shark,Carcharodon carcharias ,unprovoked,coastal,10
-1209,2022,injury,NSW,-31.1897014,138.5179,white shark,Carcharodon carcharias,unprovoked,coastal,12
+1209,2022,injured,NSW,-31.1897014,138.5179,white shark,Carcharodon carcharias,unprovoked,coastal,12
 1210,2023,fatal,WA,-31.9417,115.9097,bull shark,Carcharodon carcharias,unprovoked,river,1
 1211,2023,uninjured,WA,-33.6463583,115.0339741,whaler shark,Carcharhinus spp.,unprovoked,coastal,3
 1212,2023,injured,WA,-28.93019,114.7289,bronze whaler shark,Carcharhinus brachyurus,unprovoked,coastal,4
