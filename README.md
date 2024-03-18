@@ -41,7 +41,6 @@ The project includes the following features:
 2. Navigate to the `notebooks/` directory.
 3. Open the Jupyter Notebook files in your preferred environment (e.g., Jupyter Notebook, JupyterLab).
 4. Execute the code cells to generate the visualizations.
-5. Explore the results in the `results/` directory.
 
 
 
