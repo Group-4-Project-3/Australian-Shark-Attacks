@@ -12,7 +12,7 @@ This repository contains the code and resources for the Australian Shark Attacks
 https://taronga.org.au/conservation-and-science/australian-shark-incident-database
 - **Team Collaboration:** The project was a collaborative effort involving four team members:
   - Brad
-  - Dristi
+  - Drishti
   - Puja
   - Mel
 
