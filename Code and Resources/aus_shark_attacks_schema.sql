@@ -1,3 +1,4 @@
+-- Create table of column names after cleaning
 CREATE TABLE australian_shark_attacks (
 	uid INT,
 	incident_year INT,
@@ -12,6 +13,9 @@ CREATE TABLE australian_shark_attacks (
 	incident_month INT NOT NULL
 );
 
-DROP TABLE australian_shark_attacks;
-
+--Import cleaned csv file
+--Show table
 SELECT * FROM australian_shark_attacks;
+
+--Drop table (if needed)
+DROP TABLE australian_shark_attacks;
