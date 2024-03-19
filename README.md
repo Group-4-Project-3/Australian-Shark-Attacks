@@ -51,7 +51,10 @@ In crafting our shark attack dashboard, it was important to approach the victim 
 This project was completed as part of a collaborative effort by Brad, Drishti, Mel, and Puja.
 
 ## References
-Plotly. (2024). A Minimal Dash App. Retrieved from dash plotly: https://dash.plotly.com/minimal-app
+Plotly. (2024). Dash Python User Guide. Retrieved from Plotly: https://dash.plotly.com/  \
+Python Software Foundation. (2024). folium 0.16.0. Retrieved from pypi: https://pypi.org/project/folium/  \
+Taronga.org. (2024). Australian Shark Incident Database. Retrieved from Taronga Conservatiopn Society Australia: https://taronga.org.au/conservation-and-science/australian-shark-incident-database
+
 
 ## License
 
