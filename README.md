@@ -46,7 +46,7 @@ The project includes the following features:
 
 ## Credits
 
-This project was completed as part of a collaborative effort by Brad, Dristi, Mel, and Puja.
+This project was completed as part of a collaborative effort by Brad, Drishti, Mel, and Puja.
 
 ## License
 
