@@ -50,6 +50,9 @@ In crafting our shark attack dashboard, it was important to approach the victim 
 
 This project was completed as part of a collaborative effort by Brad, Drishti, Mel, and Puja.
 
+## References
+Plotly. (2024). A Minimal Dash App. Retrieved from dash plotly: https://dash.plotly.com/minimal-app
+
 ## License
 
 The project code and resources are available under the [MIT License](LICENSE). Feel free to use and modify them as needed.
