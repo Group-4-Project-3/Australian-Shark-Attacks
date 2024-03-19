@@ -42,7 +42,9 @@ The project includes the following features:
 3. Open the Jupyter Notebook files in your preferred environment (e.g., Jupyter Notebook, JupyterLab).
 4. Execute the code cells to generate the visualizations.
 
+# Ethical Considerations
 
+In crafting our shark attack dashboard, it was important to approach the victim data with concern and empathy in mind for shark victims and their families. Strict compliance with medical record privacy regulations was fundamental in our approach to this topic. Our first data source was the Florida Museum to target shark attacks globally. We were unable to use this sensitive information from around the world due to safeguarding the confidentiality and security of data related to victims' medical treatment and their recovery journey. Upholding the privacy and dignity of those affected by shark incidents was a core ethical consideration as we developed this dashboard. We were able to use the data from the Australian Shark Incident Database as the information was not as sensitive and lacking the data deatil of the global source.
 
 ## Credits
 
